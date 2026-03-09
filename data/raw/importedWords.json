@@ -1,0 +1,122 @@
+[
+  {
+    "word": "girafa",
+    "category": "animais"
+  },
+  {
+    "word": "elefante",
+    "category": "animais"
+  },
+  {
+    "word": "sol",
+    "category": "geral"
+  },
+  {
+    "word": "banana",
+    "category": "alimentos"
+  },
+  {
+    "word": "avião",
+    "category": "objetos"
+  },
+  {
+    "word": "árvore",
+    "category": "geral"
+  },
+  {
+    "word": "chorando",
+    "category": "verbos"
+  },
+  {
+    "word": "correndo",
+    "category": "verbos"
+  },
+  {
+    "word": "dormindo",
+    "category": "verbos"
+  },
+  {
+    "word": "chutando",
+    "category": "verbos"
+  },
+  {
+    "word": "comendo",
+    "category": "verbos"
+  },
+  {
+    "word": "lendo",
+    "category": "verbos"
+  },
+  {
+    "word": "nadando",
+    "category": "verbos"
+  },
+  {
+    "word": "caindo",
+    "category": "verbos"
+  },
+  {
+    "word": "maçã",
+    "category": "alimentos"
+  },
+  {
+    "word": "pizza",
+    "category": "alimentos"
+  },
+  {
+    "word": "hambúrguer",
+    "category": "alimentos"
+  },
+  {
+    "word": "copo",
+    "category": "objetos"
+  },
+  {
+    "word": "cadeira",
+    "category": "objetos"
+  },
+  {
+    "word": "celular",
+    "category": "objetos"
+  },
+  {
+    "word": "carro",
+    "category": "geral"
+  },
+  {
+    "word": "casa",
+    "category": "geral"
+  },
+  {
+    "word": "cachorro",
+    "category": "animais"
+  },
+  {
+    "word": "gato",
+    "category": "animais"
+  },
+  {
+    "word": "peixe",
+    "category": "animais"
+  },
+  {
+    "word": "Mickey Mouse",
+    "category": "desenho animado"
+  },
+  {
+    "word": "Bob Esponja",
+    "category": "desenho animado"
+  },
+  {
+    "word": "Naruto",
+    "category": "desenho animado"
+  },
+  {
+    "word": "palhaço",
+    "category": "geral"
+  },
+  {
+    "word": "livro",
+    "category": "objetos"
+  }
+]

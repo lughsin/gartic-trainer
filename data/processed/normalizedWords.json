@@ -1,0 +1,152 @@
+[
+  {
+    "word": "girafa",
+    "category": "animais",
+    "normalized": "girafa"
+  },
+  {
+    "word": "elefante",
+    "category": "animais",
+    "normalized": "elefante"
+  },
+  {
+    "word": "sol",
+    "category": "geral",
+    "normalized": "sol"
+  },
+  {
+    "word": "banana",
+    "category": "alimentos",
+    "normalized": "banana"
+  },
+  {
+    "word": "avião",
+    "category": "objetos",
+    "normalized": "aviao"
+  },
+  {
+    "word": "árvore",
+    "category": "geral",
+    "normalized": "arvore"
+  },
+  {
+    "word": "chorando",
+    "category": "verbos",
+    "normalized": "chorando"
+  },
+  {
+    "word": "correndo",
+    "category": "verbos",
+    "normalized": "correndo"
+  },
+  {
+    "word": "dormindo",
+    "category": "verbos",
+    "normalized": "dormindo"
+  },
+  {
+    "word": "chutando",
+    "category": "verbos",
+    "normalized": "chutando"
+  },
+  {
+    "word": "comendo",
+    "category": "verbos",
+    "normalized": "comendo"
+  },
+  {
+    "word": "lendo",
+    "category": "verbos",
+    "normalized": "lendo"
+  },
+  {
+    "word": "nadando",
+    "category": "verbos",
+    "normalized": "nadando"
+  },
+  {
+    "word": "caindo",
+    "category": "verbos",
+    "normalized": "caindo"
+  },
+  {
+    "word": "maçã",
+    "category": "alimentos",
+    "normalized": "maca"
+  },
+  {
+    "word": "pizza",
+    "category": "alimentos",
+    "normalized": "pizza"
+  },
+  {
+    "word": "hambúrguer",
+    "category": "alimentos",
+    "normalized": "hamburguer"
+  },
+  {
+    "word": "copo",
+    "category": "objetos",
+    "normalized": "copo"
+  },
+  {
+    "word": "cadeira",
+    "category": "objetos",
+    "normalized": "cadeira"
+  },
+  {
+    "word": "celular",
+    "category": "objetos",
+    "normalized": "celular"
+  },
+  {
+    "word": "carro",
+    "category": "geral",
+    "normalized": "carro"
+  },
+  {
+    "word": "casa",
+    "category": "geral",
+    "normalized": "casa"
+  },
+  {
+    "word": "cachorro",
+    "category": "animais",
+    "normalized": "cachorro"
+  },
+  {
+    "word": "gato",
+    "category": "animais",
+    "normalized": "gato"
+  },
+  {
+    "word": "peixe",
+    "category": "animais",
+    "normalized": "peixe"
+  },
+  {
+    "word": "Mickey Mouse",
+    "category": "desenho animado",
+    "normalized": "mickey mouse"
+  },
+  {
+    "word": "Bob Esponja",
+    "category": "desenho animado",
+    "normalized": "bob esponja"
+  },
+  {
+    "word": "Naruto",
+    "category": "desenho animado",
+    "normalized": "naruto"
+  },
+  {
+    "word": "palhaço",
+    "category": "geral",
+    "normalized": "palhaco"
+  },
+  {
+    "word": "livro",
+    "category": "objetos",
+    "normalized": "livro"
+  }
+]
