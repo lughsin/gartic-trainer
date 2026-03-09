@@ -1,0 +1,1019 @@
+[
+  {
+    "id": "girafa",
+    "word": "girafa",
+    "normalized": "girafa",
+    "category": "animais",
+    "difficulty": "medium",
+    "tags": [
+      "animais"
+    ],
+    "keyFeature": "pescoço muito longo",
+    "recognitionStrategy": "Pescoço primeiro, cabeça pequena depois.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 12,
+    "primitiveRecipe": [
+      "line",
+      "small oval",
+      "oval",
+      "dots"
+    ],
+    "steps": [
+      "Trace um pescoço longo vertical.",
+      "Adicione cabeça pequena.",
+      "Faça corpo oval.",
+      "Marque manchas."
+    ],
+    "tips": [
+      "Exagere o pescoço.",
+      "Pernas podem ser simples."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "pescoço alto",
+      "manchas"
+    ]
+  },
+  {
+    "id": "elefante",
+    "word": "elefante",
+    "normalized": "elefante",
+    "category": "animais",
+    "difficulty": "medium",
+    "tags": [
+      "animais"
+    ],
+    "keyFeature": "tromba + orelhas grandes",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 7,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe cabeça grande.",
+      "Adicione orelhas abertas.",
+      "Puxe tromba longa.",
+      "Faça corpo simples."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "tromba",
+      "orelhões"
+    ]
+  },
+  {
+    "id": "sol",
+    "word": "sol",
+    "normalized": "sol",
+    "category": "geral",
+    "difficulty": "easy",
+    "tags": [
+      "geral"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "banana",
+    "word": "banana",
+    "normalized": "banana",
+    "category": "alimentos",
+    "difficulty": "medium",
+    "tags": [
+      "alimentos"
+    ],
+    "keyFeature": "curva de crescente",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 2,
+    "estimatedSeconds": 4,
+    "primitiveRecipe": [
+      "curved capsule"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Não desenhe muitos detalhes da casca."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "aviao",
+    "word": "avião",
+    "normalized": "aviao",
+    "category": "objetos",
+    "difficulty": "easy",
+    "tags": [
+      "objetos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "arvore",
+    "word": "árvore",
+    "normalized": "arvore",
+    "category": "geral",
+    "difficulty": "medium",
+    "tags": [
+      "geral"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "chorando",
+    "word": "chorando",
+    "normalized": "chorando",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "lágrimas visíveis",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "circle",
+      "dots",
+      "tear lines"
+    ],
+    "steps": [
+      "Desenhe rosto.",
+      "Faça olhos fechados/tristes.",
+      "Adicione lágrimas grandes."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "gotas grandes"
+    ]
+  },
+  {
+    "id": "correndo",
+    "word": "correndo",
+    "normalized": "correndo",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "postura inclinada + linhas de movimento",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "stick line",
+      "motion lines"
+    ],
+    "steps": [
+      "Desenhe stickman inclinado para frente.",
+      "Estique uma perna para trás.",
+      "Adicione linhas de velocidade."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "inclinação",
+      "movimento"
+    ]
+  },
+  {
+    "id": "dormindo",
+    "word": "dormindo",
+    "normalized": "dormindo",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "chutando",
+    "word": "chutando",
+    "normalized": "chutando",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "comendo",
+    "word": "comendo",
+    "normalized": "comendo",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "lendo",
+    "word": "lendo",
+    "normalized": "lendo",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "nadando",
+    "word": "nadando",
+    "normalized": "nadando",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "caindo",
+    "word": "caindo",
+    "normalized": "caindo",
+    "category": "verbos",
+    "difficulty": "hard",
+    "tags": [
+      "verbos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "maca",
+    "word": "maçã",
+    "normalized": "maca",
+    "category": "alimentos",
+    "difficulty": "easy",
+    "tags": [
+      "alimentos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "pizza",
+    "word": "pizza",
+    "normalized": "pizza",
+    "category": "alimentos",
+    "difficulty": "easy",
+    "tags": [
+      "alimentos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "hamburguer",
+    "word": "hambúrguer",
+    "normalized": "hamburguer",
+    "category": "alimentos",
+    "difficulty": "hard",
+    "tags": [
+      "alimentos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "copo",
+    "word": "copo",
+    "normalized": "copo",
+    "category": "objetos",
+    "difficulty": "easy",
+    "tags": [
+      "objetos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "cadeira",
+    "word": "cadeira",
+    "normalized": "cadeira",
+    "category": "objetos",
+    "difficulty": "medium",
+    "tags": [
+      "objetos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "celular",
+    "word": "celular",
+    "normalized": "celular",
+    "category": "objetos",
+    "difficulty": "hard",
+    "tags": [
+      "objetos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "carro",
+    "word": "carro",
+    "normalized": "carro",
+    "category": "geral",
+    "difficulty": "easy",
+    "tags": [
+      "geral"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "casa",
+    "word": "casa",
+    "normalized": "casa",
+    "category": "geral",
+    "difficulty": "easy",
+    "tags": [
+      "geral"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "cachorro",
+    "word": "cachorro",
+    "normalized": "cachorro",
+    "category": "animais",
+    "difficulty": "medium",
+    "tags": [
+      "animais"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "gato",
+    "word": "gato",
+    "normalized": "gato",
+    "category": "animais",
+    "difficulty": "easy",
+    "tags": [
+      "animais"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "peixe",
+    "word": "peixe",
+    "normalized": "peixe",
+    "category": "animais",
+    "difficulty": "easy",
+    "tags": [
+      "animais"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "mickey-mouse",
+    "word": "Mickey Mouse",
+    "normalized": "mickey mouse",
+    "category": "desenho animado",
+    "difficulty": "medium",
+    "tags": [
+      "desenho animado"
+    ],
+    "keyFeature": "orelhas redondas duplas",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe círculo da cabeça.",
+      "Adicione duas orelhas redondas grandes.",
+      "Marque olhos e sorriso."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "orelhas redondas"
+    ]
+  },
+  {
+    "id": "bob-esponja",
+    "word": "Bob Esponja",
+    "normalized": "bob esponja",
+    "category": "desenho animado",
+    "difficulty": "medium",
+    "tags": [
+      "desenho animado"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "naruto",
+    "word": "Naruto",
+    "normalized": "naruto",
+    "category": "desenho animado",
+    "difficulty": "medium",
+    "tags": [
+      "desenho animado"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "palhaco",
+    "word": "palhaço",
+    "normalized": "palhaco",
+    "category": "geral",
+    "difficulty": "medium",
+    "tags": [
+      "geral"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  },
+  {
+    "id": "livro",
+    "word": "livro",
+    "normalized": "livro",
+    "category": "objetos",
+    "difficulty": "easy",
+    "tags": [
+      "objetos"
+    ],
+    "keyFeature": "silhueta principal",
+    "recognitionStrategy": "Desenhe primeiro a silhueta mais icônica, depois um detalhe único.",
+    "idealStrokes": 6,
+    "estimatedSeconds": 14,
+    "primitiveRecipe": [
+      "oval",
+      "line",
+      "curve"
+    ],
+    "steps": [
+      "Desenhe a forma principal.",
+      "Adicione forma secundária.",
+      "Inclua detalhe distintivo.",
+      "Se estiver reconhecível, pare."
+    ],
+    "tips": [
+      "Evite detalhes cedo.",
+      "Exagere o traço que define a palavra."
+    ],
+    "ambiguityNotes": [],
+    "aliases": [],
+    "recommendedVisualCues": [
+      "silhueta clara"
+    ]
+  }
+]
